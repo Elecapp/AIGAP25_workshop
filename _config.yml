@@ -26,11 +26,26 @@ baseurl: "/AIGAP25_workshop" # the subpath of your site, e.g. /blog
 url: "https://Elecapp.github.io"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: DigitaleGesellschaft/jekyll-theme-conference
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+
+navigation:
+  - name: Home
+    link: /
+  - name: Call for Papers
+    link: /call-for-papers/
+  - name: Program
+    link: /program/
+  - name: Speakers
+    link: /speakers/
+  - name: Location
+    link: /location/
+  - name: Contacts
+    link: /contacts/
 
 # Exclude from processing.
 # The following items will not be processed, by default.

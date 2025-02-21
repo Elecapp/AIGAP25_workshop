@@ -4,6 +4,16 @@
 
 layout: home
 ---
+## Welcome to AIGAP 2025
+
+Explore the conference:
+
+- [Call for Papers](/call-for-papers/)
+- [Speakers](/speakers/)
+- [Program](/program/)
+- [Location](/location/)
+- [Contacts](/contacts/)
+
 This workshop is set out to critically identify risks and limitations in
 AI-powered technologies while fostering reflection on their development and impact through the use of structured co-design methodologies. The workshop aims to
 bring together diverse contributions and practices to explore how participatory processes can integrate community values into the co-design of socio-technical systems. Through a combination of talks, roundtable discussions, and hands-on activities, participants will collaborate to produce actionable outputs such as guidelines,
