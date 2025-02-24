@@ -42,7 +42,7 @@ We welcome the following types of submissions:
 * Extended abstracts describing ongoing research, personal experiences with the topic, proof of concept, etc..  Authors can opt for having their paper included in the proceedings (5 pages required) or for non-archival presentations (from 2 up to 5 pages);
 * Research communication of already published papers that serve to promote the dissemination of contributions aligned with the scope of the workshop (up to 2 pages). They will not be published in the conference proceedings.
   
-All paper lengths exclude references, which are unlimited. All submissions should adhere to the CEUR-WS guidelines and style templates (PDF, LaTeX, Word available at https://ceur-ws.org/HOWTOSUBMIT.html) and be uploaded on Easychair at https://easychair.org/conferences/?conf=aigap2025. 
+All paper lengths exclude references, which are unlimited. All submissions should adhere to the CEUR-WS guidelines and style templates (PDF, LaTeX, Word available at <a href="https://ceur-ws.org/HOWTOSUBMIT.html" target="_blank">https://ceur-ws.org/HOWTOSUBMIT.html</a>) and be uploaded on Easychair at <a href="https://easychair.org/conferences/?conf=aigap2025" target="_blank">https://easychair.org/conferences/?conf=aigap2025</a>. 
 
 Accepted submissions shall be submitted to CEUR-WS.org for online publication in a dedicated free, open-access volume in CEUR Workshop Proceedings. Since CEUR partners with Scopus, these proposals will also be indexed in it.
 
