@@ -1,18 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 ## Welcome to AIGAP 2025
-
-Explore the conference:
-
-- [Call for Papers](/call-for-papers/)
-- [Speakers](/speakers/)
-- [Program](/program/)
-- [Location](/location/)
-- [Contacts](/contacts/)
 
 This workshop is set out to critically identify risks and limitations in
 AI-powered technologies while fostering reflection on their development and impact through the use of structured co-design methodologies. The workshop aims to

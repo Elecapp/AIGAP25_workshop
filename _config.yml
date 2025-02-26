@@ -33,19 +33,26 @@ plugins:
   - jekyll-seo-tag
 
 
-navigation:
-  - name: Home
-    link: /
-  - name: Call for Papers
-    link: /call-for-papers/
-  - name: Program
-    link: /program/
-  - name: Speakers
-    link: /speakers/
-  - name: Location
-    link: /location/
-  - name: Contacts
-    link: /contacts/
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+
+
+conference:
+  navigation:
+    links:
+      - name: Call for Papers
+        relative_url: /call-for-papers/
+      - name: Program
+        relative_url: /program/
+      - name: Speakers
+        relative_url: /speakers/
+      - name: Location
+        relative_url: /location/
+      - name: Contacts
+        relative_url: /contacts/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
