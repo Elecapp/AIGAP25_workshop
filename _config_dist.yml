@@ -1,7 +1,0 @@
-baseurl: ""
-url: "https://aigap2025.isti.cnr.it/"
-defaults:
-  - scope:
-      path: ""
-    values:
-      sitemap: true
