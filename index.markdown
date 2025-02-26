@@ -42,3 +42,5 @@ Alan Ramponi, Fondazione Bruno Kessler
 Fabio Fossa, Politecnico di Milano
 
 Tommaso Caselli, University of Groningen
+
+Manuel Lardelli, University of Graz
