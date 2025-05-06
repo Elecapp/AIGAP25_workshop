@@ -35,13 +35,35 @@ Clara Punzi, Scuola Normale Superiore
 Beatrice Savoldi, Fondazione Bruno Kessler
 
 ### Program Committee
+Selenia Anastasi, Sapienza Università di Roma
+
+Isacco Beretta, Università di Pisa
+
 Tommaso Caselli, University of Groningen
 
+Silvia Casola, University of Munich
+
+Gianluca De Ninno, Gran Sasso Science Institute
+
 Donatella Donati, Università degli Studi dell'Aquila
+
+Alessandra Facchin, Politecnico di Milano
 
 Fabio Fossa, Politecnico di Milano
 
 Manuel Lardelli, Institute of Translation Studies in Graz
+
+Daphne Lenders, Scuola Normale Superiore
+
+Yue Li, University of Sheffield
+
+Beatrice Melis, Gran Sasso Science Institute
+
+Alessio Miaschi, Consiglio Nazionale delle Ricerche
+
+Lucia Passaro, Università di Pisa
+
+Andrea Pugnana, Università di Pisa
 
 Alan Ramponi, Fondazione Bruno Kessler
 
@@ -50,9 +72,7 @@ Laura State, Università di Pisa
 Tommaso Turchi, Università di Pisa
 
 Giacomo Zanotti, Politecnico di Milano
-
-**_and more TBA_**
-
+ 
 
 
 
