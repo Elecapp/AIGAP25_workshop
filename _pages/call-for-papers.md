@@ -7,9 +7,9 @@ permalink: /call-for-papers/
 ## 1st CALL FOR PAPERS 🎈
 
 ### Important Dates (Time zone: Anywhere on Earth)
-* Submission deadline: 7 April, 2025
-* Notification of acceptance: 2 May, 2025
-* Camera Ready due: 12 May, 2025
+* Submission deadline: ~~7 April 2025~~ **11 April** 2025 AOE
+* Notification of acceptance: ~~2 May 2025~~ **5 May** 2025 AOE
+* Camera Ready due: 12 May 2025 AOE
 
 ### Aim and scope
 
@@ -43,7 +43,7 @@ We also welcome the following types of submissions:
 * Extended abstracts describing ongoing research, personal experiences with the topic, proof of concept, etc..  Authors can opt for having their paper included in the proceedings (5 pages required) or for non-archival presentations (from 2 up to 5 pages);
 * Research communication of already published papers that serve to promote the dissemination of contributions aligned with the scope of the workshop (up to 2 pages). They will not be published in the conference proceedings.
   
-All paper lengths exclude references, which are unlimited. All submissions should adhere to the CEUR-WS guidelines and style templates (PDF, LaTeX, Word available [here](https://ceur-ws.org/HOWTOSUBMIT.html)) and be uploaded on [Easychair](https://easychair.org/conferences/?conf=aigap2025). 
+All paper lengths exclude references, which are unlimited. All submissions should adhere to the CEUR-WS guidelines and style templates (PDF, LaTeX, Word available **[here]**(https://ceur-ws.org/HOWTOSUBMIT.html)) and be uploaded on **[Easychair]**(https://easychair.org/conferences/?conf=aigap2025). 
 
 Accepted submissions shall be submitted to CEUR-WS.org for online publication in a dedicated free, open-access volume in CEUR Workshop Proceedings. Since CEUR partners with Scopus, these proposals will also be indexed in it.
 

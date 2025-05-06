@@ -50,10 +50,10 @@ conference:
         relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
-      - name: Location
-        relative_url: /location/
-      - name: Contacts
-        relative_url: /contacts/
+    logo:
+      img: Logo_SoBigDatait.png
+      url: "/"
+      name: "SBDLogo"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

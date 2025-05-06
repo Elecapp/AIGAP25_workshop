@@ -11,9 +11,9 @@ layout: home
 This workshop is set out to critically identify risks and limitations in AI-powered technologies while fostering reflection on their development and impact through the use of structured co-design methodologies. It aims to bring together diverse contributions and practices to explore how participatory processes can integrate community values into the co-design of socio-technical systems. Through a combination of talks, roundtable discussions, and hands-on activities, participants will collaborate to produce actionable outputs such as guidelines, a white paper, or design artifacts. The event ultimately intends to foster interdisciplinary engagement and move beyond academia to include practitioners, NGOs, and designers, experimenting a robust, society-centered approach to AI development, assessment, and deployment.
 
 ### Important Dates (Time zone: Anywhere on Earth)
-* Submission deadline: 7 April, 2025
-* Notification of acceptance: 2 May, 2025
-* Camera Ready due: 12 May, 2025
+* Submission deadline: ~~7 April 2025~~ **11 April 2025 AOE**
+* Notification of acceptance: ~~2 May 2025~~ **5 May 2025 AOE**
+* Camera Ready due: 12 May 2025 AOE
 * Workshop: 9 June 2025 in Pisa, Italy
 
 ### Workshop Organizers
@@ -32,5 +32,40 @@ Benedetta Muscato, Scuola Normale Superiore
 
 Clara Punzi, Scuola Normale Superiore 
 
-Beatrice Savoldi, Fondazione Bruno Kessler 
+Beatrice Savoldi, Fondazione Bruno Kessler
+
+### Program Committee
+Tommaso Caselli, University of Groningen
+
+Donatella Donati, Università degli Studi dell'Aquila
+
+Fabio Fossa, Politecnico di Milano
+
+Manuel Lardelli, Institute of Translation Studies in Graz
+
+Alan Ramponi, Fondazione Bruno Kessler
+
+Laura State, Università di Pisa
+
+Tommaso Turchi, Università di Pisa
+
+Giacomo Zanotti, Politecnico di Milano
+
+**_and more TBA_**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- 
 
