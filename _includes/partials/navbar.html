@@ -84,12 +84,19 @@
     {%- if site.conference.navigation.logo %}
       <div class="navbar-brand navbar-logo mr-0 ml-1 text-right overflow-hidden">
         <a href="{{ site.conference.navigation.logo.url }}">
-          {%- if site.conference.navigation.logo.img %}
-            <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}" class="align-middle" alt="{{ site.conference.navigation.logo.name }}" style="max-height: 30px" />
-          {%- else %}
-            {{ site.conference.navigation.logo.name }}
-          {%- endif %}
-        </a>
+  <img src="{{ '/assets/images/' | append: site.conference.navigation.logo.img | prepend: site.baseurl }}"
+       class="align-middle"
+       alt="{{ site.conference.navigation.logo.name }}"
+       style="max-height: 30px; margin-right: 10px;" />
+</a>
+
+<a href="https://www.gssi.it/">
+  <img src="{{ '/assets/images/gssi_logo.png' | prepend: site.baseurl }}"
+       class="align-middle"
+       alt="GSSI Logo"
+       style="max-height: 50px;" />
+</a>
+
       </div>
     {%- endif %}
 

@@ -50,10 +50,15 @@ conference:
         relative_url: /program/
       - name: Speakers
         relative_url: /speakers/
-    logo:
-      img: Logo_SoBigDatait.png
-      url: "/"
-      name: "SBDLogo"
+    logos:
+      - img: Logo_SoBigDatait.png
+        url: "/"
+        name: "SBDLogo"
+
+      - img: gssi_logo.png
+        url: "https://www.gssi.it/"
+        name: "GSSILogo"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
